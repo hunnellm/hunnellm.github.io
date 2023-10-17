@@ -5,6 +5,7 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: '/publications/Ochar2.pdf'}
 
 index:
+- {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
 - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/Minimal Parabolics Paper.pdf'}
 - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: '/publications/Ochar2.pdf'}
