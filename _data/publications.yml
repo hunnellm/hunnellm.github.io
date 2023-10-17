@@ -1,12 +1,14 @@
 featured:
 - {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
-- {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups', url: '/publications/Minimal Parabolics Paper.pdf'}
-- {name: 'Isomorphy classes of finite order automorphisms of SL(2,k)', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
-- {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz', url: '/publications/Ochar2.pdf'}
+- {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups. Journal of Algebra and its Applications, 2020.', url: '/publications/Minimal Parabolics Paper.pdf'}
+- {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz. Linear Algebra and its Applications, 2020.', url: '/publications/Ochar2.pdf'}
+- {name: 'Isomorphy classes of finite order automorphisms of SL(2,k). R. Benim, M. Hunnell, and A. Sutherland. Communications in Algebra, 2017', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
+- {name: 'Additional preprints', url: 'https://arxiv.org/search/?query=hunnell%2C+mark&searchtype=author&abstracts=show&order=-announced_date_first&size=50'}
+
 
 index:
 - {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
-- {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups', url: '/publications/Minimal Parabolics Paper.pdf'}
-- {name: 'Isomorphy classes of finite order automorphisms of SL(2,k)', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
-- {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz', url: '/publications/Ochar2.pdf'}
+- {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups. Journal of Algebra and its Applications, 2020.', url: '/publications/Minimal Parabolics Paper.pdf'}
+- {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz. Linear Algebra and its Applications, 2020.', url: '/publications/Ochar2.pdf'}
+- {name: 'Isomorphy classes of finite order automorphisms of SL(2,k). R. Benim, M. Hunnell, and A. Sutherland. Communications in Algebra, 2017', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
 - {name: 'Additional preprints', url: 'https://arxiv.org/search/?query=hunnell%2C+mark&searchtype=author&abstracts=show&order=-announced_date_first&size=50'}
