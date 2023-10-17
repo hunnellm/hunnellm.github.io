@@ -1,4 +1,22 @@
 featured:
+@article {MR4418171,
+    AUTHOR = {Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger,
+              Houston and Small, Ben and Zhang, Yaqi},
+     TITLE = {Upper bounds for positive semidefinite propagation time},
+   JOURNAL = {Discrete Math.},
+  FJOURNAL = {Discrete Mathematics},
+    VOLUME = {345},
+      YEAR = {2022},
+    NUMBER = {9},
+     PAGES = {Paper No. 112967, 11},
+      ISSN = {0012-365X,1872-681X},
+   MRCLASS = {05C69},
+  MRNUMBER = {4418171},
+MRREVIEWER = {Cong\ X.\ Kang},
+       DOI = {10.1016/j.disc.2022.112967},
+       URL = {https://doi.org/10.1016/j.disc.2022.112967},
+}
+- {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url = 'https://doi.org/10.1016/j.disc.2022.112967'}
 - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/Minimal Parabolics Paper.pdf'}
 - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: '/publications/Ochar2.pdf'}
