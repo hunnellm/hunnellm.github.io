@@ -1,7 +1,7 @@
 # frozen_string_literal: true
-
+gem "academic-jekyll-theme"
 source "https://rubygems.org"
 gemspec
 
 
-gem "academic-jekyll-theme"
+
