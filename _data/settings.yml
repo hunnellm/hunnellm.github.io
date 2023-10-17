@@ -1,7 +1,7 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+#- {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -17,9 +17,9 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/hunnellm'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
 - {name: 'Mark Hunnell', title: 'Associate Professor', department: 'Mathematics', institution: 'Winston-Salem State University', institution_address: '601 S Martin Luther King Jr Dr, Winston-Salem NC 27110', phone: '(336) 750-8914', email: 'hunnellm@wssu.edu', office: '145 Carolina Hall', image: 'assets/img/zhat.jpg'}
