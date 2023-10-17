@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Mark Hunnell', title: 'Associate Professor', department: 'Mathematics', institution: 'Winston-Salem State University', institution_address: '601 S Martin Luther King Jr Dr, Winston-Salem NC 27110', phone: '(336) 750-8914', email: 'hunnellm@wssu.edu', office: '145 Carolina Hall', image: 'assets/img/contact.jpg'}
+- {name: 'Mark Hunnell', title: 'Associate Professor', department: 'Mathematics', institution: 'Winston-Salem State University', institution_address: '601 S Martin Luther King Jr Dr, Winston-Salem NC 27110', phone: '(336) 750-8914', email: 'hunnellm@wssu.edu', office: '145 Carolina Hall', image: 'assets/img/zhat.png'}
