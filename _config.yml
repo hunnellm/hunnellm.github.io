@@ -1,5 +1,5 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Mark Hunnell" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+description: "Associate Professor of Mathematics"
 remote_theme: academic-jekyll-theme
