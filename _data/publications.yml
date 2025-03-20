@@ -8,6 +8,7 @@ featured:
 
 
 index:
+- {name: 'Fixed point groups of involutions of type O(q,k) over a field of characteristic two, Hogben, Hunnell, Mark and Hutchens, John, Linear and Multilinear Algebra, 2024', url: 'https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2340743'}
 - {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
 - {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups. Journal of Algebra and its Applications, 2020.', url: '/publications/Minimal Parabolics Paper.pdf'}
 - {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz. Linear Algebra and its Applications, 2020.', url: '/publications/Ochar2.pdf'}
