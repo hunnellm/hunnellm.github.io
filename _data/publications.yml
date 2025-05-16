@@ -1,4 +1,5 @@
 featured:
+- {name: 'New structures and their applications to variants of zeroforcing and propagation time, Electronic Journal of Combinatorics', url: 'https://doi.org/10.37236/12237'}
 - {name: 'Fixed point groups of involutions of type O(q,k) over a field of characteristic two, Hogben, Hunnell, Mark and Hutchens, John, Linear and Multilinear Algebra, 2024', url: 'https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2340743'}
 - {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
 - {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups. Journal of Algebra and its Applications, 2020.', url: '/publications/Minimal Parabolics Paper.pdf'}
