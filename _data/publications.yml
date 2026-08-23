@@ -1,18 +1,21 @@
 featured:
-- {name: 'New structures and their applications to variants of zeroforcing and propagation time, Electronic Journal of Combinatorics', url: 'https://doi.org/10.37236/12237'}
-- {name: 'Fixed point groups of involutions of type O(q,k) over a field of characteristic two, Hogben, Hunnell, Mark and Hutchens, John, Linear and Multilinear Algebra, 2024', url: 'https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2340743'}
-- {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
-- {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups. Journal of Algebra and its Applications, 2020.', url: '/publications/Minimal Parabolics Paper.pdf'}
-- {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz. Linear Algebra and its Applications, 2020.', url: '/publications/Ochar2.pdf'}
-- {name: 'Isomorphy classes of finite order automorphisms of SL(2,k). R. Benim, M. Hunnell, and A. Sutherland. Communications in Algebra, 2017', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
-- {name: 'Additional preprints', url: 'https://arxiv.org/search/?query=hunnell%2C+mark&searchtype=author&abstracts=show&order=-announced_date_first&size=50'}
-
+- {name: 'Transmission Zero Forcing (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT.', url: 'https://arxiv.org/abs/2606.22246'}
+- {name: 'Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, Australasian Journal of Combinatorics.', url: 'https://arxiv.org/abs/2511.16335'}
+- {name: 'Fault Tolerant Zero Forcing (2026). Under review.', url: 'https://arxiv.org/abs/2509.07854'}
+- {name: 'A Universal Approach to Reconfiguration of Graph Vertex Parameters for Token Jumping and Token Sliding (2026). Accepted pending revisions, La Matematica.', url: 'https://arxiv.org/abs/2501.03642'}
+- {name: 'The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). Electronic Journal of Linear Algebra, 41 (2025), 643–668.', url: 'https://journals.uwyo.edu/index.php/ela/article/view/9635'}
+- {name: 'Topological Symmetry Groups of the Generalized Petersen Graphs (2025), with A. Alvarez, E. Davis, E. Flapan, J. Hutchens, P. Lewis, C. Price, and R. Vanderpool. Algebraic and Geometric Topology.', url: 'https://msp.org/agt/2025/25-8/p13.xhtml'}
 
 index:
-- {name: 'New structures and their applications to variants of zeroforcing and propagation time, Electronic Journal of Combinatorics', url: 'https://doi.org/10.37236/12237'}
-- {name: 'Fixed point groups of involutions of type O(q,k) over a field of characteristic two, Hunnell, Mark and Hutchens, John, Linear and Multilinear Algebra, 2024', url: 'https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2340743'}
-- {name: 'Upper bounds for positive semidefinite propagation time, Hogben, Leslie and Hunnell, Mark and Liu, Kevin and Schuerger, Houston and Small, Ben and Zhang, Yaqi, Discrete Mathematics, 2022', url: '/publications/upper_bounds.pdf'}
-- {name: 'Minimal parabolic k-subgroups acting on symmetric k-varieties corresponding to k-split groups. Journal of Algebra and its Applications, 2020.', url: '/publications/Minimal Parabolics Paper.pdf'}
-- {name: 'On involutions of type O(q,k) over a field of characteristic two, M. Hunnell, J. Hutchens, and N. Schwartz. Linear Algebra and its Applications, 2020.', url: '/publications/Ochar2.pdf'}
-- {name: 'Isomorphy classes of finite order automorphisms of SL(2,k). R. Benim, M. Hunnell, and A. Sutherland. Communications in Algebra, 2017', url: '/publications/Isomorphy classes of finite order automorphisms of SL 2 k.pdf'}
-- {name: 'Additional preprints', url: 'https://arxiv.org/search/?query=hunnell%2C+mark&searchtype=author&abstracts=show&order=-announced_date_first&size=50'}
+- {name: 'Transmission Zero Forcing (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT.', url: 'https://arxiv.org/abs/2606.22246'}
+- {name: 'Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, Australasian Journal of Combinatorics.', url: 'https://arxiv.org/abs/2511.16335'}
+- {name: 'Fault Tolerant Zero Forcing (2026). Under review.', url: 'https://arxiv.org/abs/2509.07854'}
+- {name: 'A Universal Approach to Reconfiguration of Graph Vertex Parameters for Token Jumping and Token Sliding (2026). Accepted pending revisions, La Matematica.', url: 'https://arxiv.org/abs/2501.03642'}
+- {name: 'The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). Electronic Journal of Linear Algebra, 41 (2025), 643–668.', url: 'https://journals.uwyo.edu/index.php/ela/article/view/9635'}
+- {name: 'Topological Symmetry Groups of the Generalized Petersen Graphs (2025), with A. Alvarez, E. Davis, E. Flapan, J. Hutchens, P. Lewis, C. Price, and R. Vanderpool. Algebraic and Geometric Topology.', url: 'https://msp.org/agt/2025/25-8/p13.xhtml'}
+- {name: 'New Structures and Their Applications to Variants of Zero Forcing and Propagation Time (2025). Electronic Journal of Combinatorics, 32(2), P2.19.', url: 'https://doi.org/10.37236/12237'}
+- {name: 'Fixed Point Groups of Involutions of O(q,k) for a Field of Characteristic 2 (2025), with J. Hutchens. Linear and Multilinear Algebra.', url: 'https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2340743'}
+- {name: 'Upper Bounds for Positive Semidefinite Propagation Time (2022). Discrete Mathematics.', url: 'https://doi.org/10.1016/j.disc.2022.112967'}
+- {name: 'Orbits of Minimal Parabolic Subgroups Acting on Symmetric k-Varieties Corresponding to k-split Groups (2021). Journal of Algebra and its Applications.', url: 'https://doi.org/10.1142/S0219498821501991'}
+- {name: 'On Involutions of Type O(q,k) over a Field of Characteristic Two (2020), with J. Hutchens and N. Schwarz. Linear Algebra and its Applications, Vol. 593, 228–250.', url: 'https://doi.org/10.1016/j.laa.2020.02.006'}
+- {name: 'Isomorphy Classes of Finite Order Automorphisms of SL(2,k) (2017), with R.W. Benim and A.K. Sutherland. Communications in Algebra, Vol. 45, No. 12.', url: 'https://doi.org/10.1080/00927872.2017.1298770'}
