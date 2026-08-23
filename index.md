@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-My research is currently focused around zero forcing and its variants.  Particularly on applications to minimum rank, the inverse eigenvalue problem, and reconfiguration questions.  Zero forcing is a type of coloring game played on a graph where vertices start out white and can be colored black. Each black vertex must have an associated neighborhood of vertices.
+My research lies at the intersection of graph theory and linear algebra. In particular, I work on the inverse eigenvalue problem for a graph (IEPG), which seeks to characterize the spectra realized by matrices in a space of matrices defined by the adjacencies of the graph. The additional specification of a matrix structure (symmetric, skew symmetric, symplectic, etc.) changes the problem in interesting ways.
 
-Of particular importance are the initial color assignments that result in all vertices black at the end of the game, and the minimum cardinality of such a set is called the zero forcing number of the graph. I'm particularly interested in investigating how the zero forcing number relates to other graph parameters.
+With my undergraduate research group, we focus on the graph-theoretic questions related to the IEPG. We study variants of zero forcing, an iterative coloring process applied to the graph. The startup cost is low, and students can begin contributing to original research with very little background.
