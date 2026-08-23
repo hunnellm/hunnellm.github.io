@@ -3,6 +3,8 @@ layout: home
 title: "Home"
 ---
 
-My research lies at the intersection of graph theory and linear algebra. In particular, I work on the inverse eigenvalue problem for a graph (IEPG), which seeks to characterize the spectra realized by matrices in a space of matrices defined by the adjacencies of the graph. The additional specification of a matrix structure (symmetric, skew symmetric, symplectic, etc.) changes the problem in interesting ways.
+My research lies at the intersection of graph theory and linear algebra. In particular, I work on the inverse eigenvalue problem for a graph (IEPG), which seeks to characterize the spectra realized by a graph.
 
-With my undergraduate research group, we focus on the graph-theoretic questions related to the IEPG. We study variants of zero forcing, an iterative coloring process applied to the graph. The startup cost is low, and students can begin contributing to original research with very little background.
+With my undergraduate research group, we focus on the graph-theoretic questions related to the IEPG. We study variants of zero forcing, an iterative coloring process applied to the graph. The startup of our work led to the formation of a broader research community.
+
+I serve as an organizer of the [Inverse Eigenvalue Problem of a Graph - Zero Forcing AIM Research Community](https://qubeshub.org/community/groups/iepgzfarc/overview). This community was founded with the help of the American Institute of Mathematics (AIM), and brings together an international group of researchers to periodically pose new problems and form groups to investigate them.
