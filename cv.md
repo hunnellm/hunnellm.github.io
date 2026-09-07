@@ -310,17 +310,17 @@ permalink: /cv/
     <h3 class="subsection-title">Peer-Reviewed Publications</h3>
     <ol class="pub-list">
       <li>Transmission Zero Forcing (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT. <a class="pub-link" href="https://arxiv.org/abs/2606.22246" target="_blank" rel="noopener">[link]</a></li>
-      <li>Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, <em>Australasian Journal of Combinatorics</em>. <a class="pub-link" href="https://arxiv.org/abs/2511.16335" target="_blank" rel="noopener">[link]</a></li>
+      <li>Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, <em>Australasian Journal of Combinatorics</em>.</li>
       <li>Fault Tolerant Zero Forcing (2026). Under review. <a class="pub-link" href="https://arxiv.org/abs/2509.07854" target="_blank" rel="noopener">[link]</a></li>
       <li>Reconfiguration of zero forcing sets under the PSD and skew forcing rules (2026). Accepted pending revisions. <a class="pub-link" href="https://arxiv.org/abs/2501.03642" target="_blank" rel="noopener">[link]</a></li>
-      <li>The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). <em>Electronic Journal of Linear Algebra</em>, 41 (2025), 643–668. <a class="pub-link" href="https://journals.uwyo.edu/index.php/ela/article/view/9635" target="_blank" rel="noopener">[link]</a></li>
-      <li>Topological Symmetry Groups of the Generalized Petersen Graphs (2025), with A. Alvarez, E. Davis, E. Flapan, J. Hutchens, P. Lewis, C. Price, and R. Vanderpool. <em>Algebraic and Geometric Topology</em>. <a class="pub-link" href="https://msp.org/agt/2025/25-8/p13.xhtml" target="_blank" rel="noopener">[link]</a></li>
-      <li>New Structures and Their Applications to Variants of Zero Forcing and Propagation Time (2025). <em>Electronic Journal of Combinatorics</em>, 32(2), P2.19. <a class="pub-link" href="https://doi.org/10.37236/12237" target="_blank" rel="noopener">[link]</a></li>
-      <li>Fixed Point Groups of Involutions of O(q,k) for a Field of Characteristic 2 (2025), with J. Hutchens. <em>Linear and Multilinear Algebra</em>. <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2340743" target="_blank" rel="noopener">[link]</a></li>
+      <li>The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). <em>Electronic Journal of Linear Algebra</em>, 41 (2025), 643–668. <a class="pub-link" href="https://doi.org/10.13001/ela.2025.7685" target="_blank" rel="noopener">[link]</a></li>
+      <li>Topological Symmetry Groups of the Generalized Petersen Graphs (2025), with A. Alvarez, E. Davis, E. Flapan, J. Hutchens, P. Lewis, C. Price, and R. Vanderpool. <em>Algebraic and Geometric Topology</em>, 25 (2025), 1625–1649. <a class="pub-link" href="https://doi.org/10.2140/agt.2025.25.1625" target="_blank" rel="noopener">[link]</a></li>
+      <li>New Structures and Their Applications to Variants of Zero Forcing and Propagation Time (2025). <em>Electronic Journal of Combinatorics</em>, 32(2), P2.19. <a class="pub-link" href="https://doi.org/10.37236/12298" target="_blank" rel="noopener">[link]</a></li>
+      <li>Fixed Point Groups of Involutions of O(q,k) for a Field of Characteristic 2 (2025), with J. Hutchens. <em>Linear and Multilinear Algebra</em>. <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2419689" target="_blank" rel="noopener">[link]</a></li>
       <li>Upper Bounds for Positive Semidefinite Propagation Time (2022). <em>Discrete Mathematics</em>. <a class="pub-link" href="https://doi.org/10.1016/j.disc.2022.112967" target="_blank" rel="noopener">[link]</a></li>
-      <li>Orbits of Minimal Parabolic Subgroups Acting on Symmetric k-Varieties Corresponding to k-split Groups (2021). <em>Journal of Algebra and its Applications</em>. <a class="pub-link" href="https://doi.org/10.1142/S0219498821501991" target="_blank" rel="noopener">[link]</a></li>
-      <li>On Involutions of Type O(q,k) over a Field of Characteristic Two (2020), with J. Hutchens and N. Schwarz. <em>Linear Algebra and its Applications</em>, Vol. 593, 228–250. <a class="pub-link" href="https://doi.org/10.1016/j.laa.2020.02.006" target="_blank" rel="noopener">[link]</a></li>
-      <li>Isomorphy Classes of Finite Order Automorphisms of SL(2,k) (2017), with R.W. Benim and A.K. Sutherland. <em>Communications in Algebra</em>, Vol. 45, No. 12. <a class="pub-link" href="https://doi.org/10.1080/00927872.2017.1298770" target="_blank" rel="noopener">[link]</a></li>
+      <li>Orbits of Minimal Parabolic Subgroups Acting on Symmetric k-Varieties Corresponding to k-split Groups (2021). <em>Journal of Algebra and its Applications</em>. <a class="pub-link" href="https://doi.org/10.1142/S0219498821500894" target="_blank" rel="noopener">[link]</a></li>
+      <li>On Involutions of Type O(q,k) over a Field of Characteristic Two (2020), with J. Hutchens and N. Schwarz. <em>Linear Algebra and its Applications</em>, Vol. 593, 228–250. <a class="pub-link" href="https://doi.org/10.1016/j.laa.2020.05.017" target="_blank" rel="noopener">[link]</a></li>
+      <li>Isomorphy Classes of Finite Order Automorphisms of SL(2,k) (2017), with R.W. Benim and A.K. Sutherland. <em>Communications in Algebra</em>, Vol. 45, No. 12. <a class="pub-link" href="https://doi.org/10.1080/00927872.2017.1303102" target="_blank" rel="noopener">[link]</a></li>
     </ol>
 
     <h3 class="subsection-title">Manuscripts in Preparation</h3>
@@ -336,6 +336,7 @@ permalink: /cv/
 
     <h3 class="subsection-title">Conference Presentations</h3>
     <ul class="cv-list tight">
+      <li>Progress on the Minimum Rank Problem for Graphs — International Linear Algebra Society, May 2026.</li>
       <li>Fault Tolerant Zero Forcing — Joint Mathematics Meetings, Washington, D.C., 2026.</li>
       <li>New Tools for the Minimum Rank Problem for Graphs — Joint Mathematics Meetings, Washington, D.C., 2026.</li>
       <li>Minimum Rank for Small Graphs — Southeast International Conference on Combinatorics, Graph Theory, and Computing, 2025.</li>
@@ -343,8 +344,8 @@ permalink: /cv/
       <li>Fault Tolerant Zero Forcing — WSSU Scholarship Day Departmental Showcase, 2024.</li>
       <li>Reconfiguration for Positive Semidefinite Zero Forcing — Joint Mathematics Meetings, San Francisco, CA, 2024.</li>
       <li>On Involutions of Orthogonal Groups Defined Over a Field of Characteristic 2 — AMS Special Session on Generalizations of Symmetric Spaces, II, Honolulu, HI, 2019.</li>
-      <li>Generalized Symmetric k-Varieties Corresponding to Finite Order Automorphisms — Joint Mathematics Meetings Special Session on Lie Group Representations, Discretization, and Gelfand Pairs (MRC Session), I, Atlanta, GA, 2017.</li>
-      <li>Generalized Complexification of the Orbits of Parabolic k-Subgroups Acting on Symmetric k-Varieties — MAA General Contributed Paper Session on Research in Algebra, I, San Antonio, TX, 2015.</li>
+      <li>Generalized Symmetric k-Varieties Corresponding to Finite Order Automorphisms — Joint Mathematics Meetings Special Session on Lie Group Representations, Discretization, and Gelfand Pairs, Denver, CO, 2020.</li>
+      <li>Generalized Complexification of the Orbits of Parabolic k-Subgroups Acting on Symmetric k-Varieties — MAA General Contributed Paper Session on Research in Algebra, I, San Antonio, TX, 2018.</li>
     </ul>
 
     <h3 class="subsection-title">External Funding</h3>
@@ -364,12 +365,12 @@ permalink: /cv/
     <ul class="cv-list tight">
       <li><strong class="field">WSSU Zero Forcing Research Group</strong> (2023–present). Team of four undergraduates conducting ongoing research; funding provided by the Mosaic Fund.</li>
       <li><em>Vertex Fault Tolerant Zero Forcing II</em> — GIRAFFE 2026 Zero Forcing Research Group.</li>
-      <li><em>WSSU Zero Forcing Research Group Summer Workshop</em> (2025) — Asher Brown, Za'Kiyah Toomer-Sanders, Sarah Weber. Week-long intensive research workshop funded by a PRIMES award; manuscript under review.</li>
-      <li><em>Fault Tolerant Zero Forcing</em> (2024–2025) — Asher Brown, Diana Holman, Amiya Sanford, and ZaKiya Toomer-Sanders. Funded by the Mosaic Mathematics Research Assistantship Fund. Two posters at University Scholarship Day 2025; poster at NAM MathFest 2024.</li>
-      <li><em>Fault Tolerant Zero Forcing</em> (2023–2024) — Kyasia Avery, Asher Brown, Diana Holman, Amiya Sanford, and ZaKiya Toomer-Sanders. Funded by the UNC Undergraduate Research Program. Poster at University Scholarship Day 2024; poster at NAM MathFest 2024.</li>
-      <li><em>Zero Forcing for Some Families of Graphs</em> (2021–2022) — Dezmen Howard, Galen Mackaronis, Christopher Johnson, Abre'a Curtis, Jenaira Edmonds. Two posters presented at University Scholarship Day 2022.</li>
+      <li><em>WSSU Zero Forcing Research Group Summer Workshop</em> (2025) — Asher Brown, Za'Kiyah Toomer-Sanders, Sarah Weber. Week-long intensive research workshop funded by a PRIMES award; manuscripts in preparation.</li>
+      <li><em>Fault Tolerant Zero Forcing</em> (2024–2025) — Asher Brown, Diana Holman, Amiya Sanford, and ZaKiya Toomer-Sanders. Funded by the Mosaic Mathematics Research Assistantship Fund.</li>
+      <li><em>Fault Tolerant Zero Forcing</em> (2023–2024) — Kyasia Avery, Asher Brown, Diana Holman, Amiya Sanford, and ZaKiya Toomer-Sanders. Funded by the UNC Undergraduate Research Program.</li>
+      <li><em>Zero Forcing for Some Families of Graphs</em> (2021–2022) — Dezmen Howard, Galen Mackaronis, Christopher Johnson, Abre'a Curtis, Jenaira Edmonds. Two posters presented at University Scholarship Day, Fall 2021 and Spring 2022.</li>
       <li><em>Generalized Symmetric Spaces for SL(2,k)</em> (2016–2017) — MARC Affiliate Scholar Eric Pridgen.</li>
-      <li><em>Finite Order Automorphisms of SL(3)</em> (2015–2016) — MARC Affiliate Scholar Eric Pridgen. Disseminated at ABRCMS 2015 (poster session) and University Scholarship Day, Fall 2016.</li>
+      <li><em>Finite Order Automorphisms of SL(3)</em> (2015–2016) — MARC Affiliate Scholar Eric Pridgen. Disseminated at ABRCMS 2015 (poster session) and University Scholarship Day, Fall 2015.</li>
       <li><em>An Application of the PageRank Algorithm to a Marketing Problem</em> — Summer Research Fellow Alexus Deese. Presented at the Summer Research Fellows Symposium, WSSU, 2016.</li>
     </ul>
 
@@ -465,6 +466,7 @@ permalink: /cv/
 
     <h3 class="subsection-title">Community and Professional</h3>
     <ul class="cv-list tight">
+      <li>Organizer, Inverse Eigenvalue Problem of a Graph and Zero Forcing AIM Research Community (2025–present)</li>
       <li>Local Organizing Committee, NAM MathFest, 2027</li>
       <li>Session Organizer, IEPG-ZF ARC, Joint Mathematics Meetings, 2027</li>
       <li>Session Organizer, Graphs and Matrices, Southeast International Conference on Combinatorics, Graph Theory, and Computing, 2027</li>
@@ -483,7 +485,7 @@ permalink: /cv/
     </ul>
   </section>
 
-  <footer class="cv-footer">Mark C. Hunnell &middot; Curriculum Vitae &middot; Updated August 2026</footer>
+  <footer class="cv-footer">Mark C. Hunnell &middot; Curriculum Vitae &middot; Updated September 2026</footer>
 
 </div>
 </body>
