@@ -7,9 +7,11 @@ title: "Publications"
 
 1. **Transmission Zero Forcing** (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT. [[arXiv:2606.22246](https://arxiv.org/abs/2606.22246)]
 
-2. **Zero forcing propagation time intervals and graphs with fixed propagation time** (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, *Australasian Journal of Combinatorics*. [[arXiv:2511.16335](https://arxiv.org/abs/2511.16335)]
+2. **Zero forcing propagation time intervals and graphs with fixed propagation time** (2026), with D. Ferrero, H.T. Hall, and L. Hogben. *Australasian Journal of Combinatorics*. [[arXiv:2511.16335](https://arxiv.org/abs/2511.16335)]
 
-3. **Fault Tolerant Zero Forcing** (2026). Under review. [[arXiv:2509.07854](https://arxiv.org/abs/2509.07854)]
+3. **Machine Learning Applied to the Minimum Rank Problem** (2026), with J. Hutchens and K. Urgo. Under review, IEEE MLBD 2026 Conference.
+
+4. **Fault Tolerant Zero Forcing** (2026). Under review. [[arXiv:2509.07854](https://arxiv.org/abs/2509.07854)]
 
 4. **A Universal Approach to Reconfiguration of Graph Vertex Parameters for Token Jumping and Token Sliding** (2026). Accepted pending revisions, La Matematica. [[arXiv:2501.03642](https://arxiv.org/abs/2501.03642)]
 
