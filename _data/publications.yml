@@ -1,6 +1,7 @@
 featured:
 - {name: 'Transmission Zero Forcing (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT.', url: 'https://arxiv.org/abs/2606.22246'}
-- {name: 'Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, Australasian Journal of Combinatorics.', url: 'https://arxiv.org/abs/2511.16335'}
+- {name: 'Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Australasian Journal of Combinatorics.', url: 'https://arxiv.org/abs/2511.16335'}
+- {name: 'Machine Learning Applied to the Minimum Rank Problem (2026), with J. Hutchens and K. Urgo. Under review, IEEE MLBD 2026 Conference.'}
 - {name: 'Fault Tolerant Zero Forcing (2026). Under review.', url: 'https://arxiv.org/abs/2509.07854'}
 - {name: 'A Universal Approach to Reconfiguration of Graph Vertex Parameters for Token Jumping and Token Sliding (2026). Accepted pending revisions, La Matematica.', url: 'https://arxiv.org/abs/2501.03642'}
 - {name: 'The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). Electronic Journal of Linear Algebra, 41 (2025), 643–668.', url: 'https://journals.uwyo.edu/index.php/ela/article/view/9635'}
@@ -8,7 +9,8 @@ featured:
 
 index:
 - {name: 'Transmission Zero Forcing (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT.', url: 'https://arxiv.org/abs/2606.22246'}
-- {name: 'Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, Australasian Journal of Combinatorics.', url: 'https://arxiv.org/abs/2511.16335'}
+- {name: 'Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Australasian Journal of Combinatorics.', url: 'https://arxiv.org/abs/2511.16335'}
+- {name: 'Machine Learning Applied to the Minimum Rank Problem (2026), with J. Hutchens and K. Urgo. Under review, IEEE MLBD 2026 Conference.'}
 - {name: 'Fault Tolerant Zero Forcing (2026). Under review.', url: 'https://arxiv.org/abs/2509.07854'}
 - {name: 'A Universal Approach to Reconfiguration of Graph Vertex Parameters for Token Jumping and Token Sliding (2026). Accepted pending revisions, La Matematica.', url: 'https://arxiv.org/abs/2501.03642'}
 - {name: 'The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). Electronic Journal of Linear Algebra, 41 (2025), 643–668.', url: 'https://journals.uwyo.edu/index.php/ela/article/view/9635'}

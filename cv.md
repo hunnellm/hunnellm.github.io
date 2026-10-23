@@ -2,6 +2,7 @@
 layout: null
 permalink: /cv/
 ---
+{::nomarkdown}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -310,7 +311,8 @@ permalink: /cv/
     <h3 class="subsection-title">Peer-Reviewed Publications</h3>
     <ol class="pub-list">
       <li>Transmission Zero Forcing (2026), with A. Berliner, C. Bozeman, K. Collins, M. Flagg, and V. Furst. Under review, DGMT. <a class="pub-link" href="https://arxiv.org/abs/2606.22246" target="_blank" rel="noopener">[link]</a></li>
-      <li>Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. Accepted, <em>Australasian Journal of Combinatorics</em>.</li>
+      <li>Zero forcing propagation time intervals and graphs with fixed propagation time (2026), with D. Ferrero, H.T. Hall, and L. Hogben. <em>Australasian Journal of Combinatorics</em>.</li>
+      <li>Machine Learning Applied to the Minimum Rank Problem (2026), with J. Hutchens and K. Urgo. Under review, IEEE MLBD 2026 Conference.</li>
       <li>Fault Tolerant Zero Forcing (2026). Under review. <a class="pub-link" href="https://arxiv.org/abs/2509.07854" target="_blank" rel="noopener">[link]</a></li>
       <li>Reconfiguration of zero forcing sets under the PSD and skew forcing rules (2026). Accepted pending revisions. <a class="pub-link" href="https://arxiv.org/abs/2501.03642" target="_blank" rel="noopener">[link]</a></li>
       <li>The Classification of Graphs on 8 Vertices with Coinciding Zero Forcing Number and Maximum Nullity (2025). <em>Electronic Journal of Linear Algebra</em>, 41 (2025), 643–668. <a class="pub-link" href="https://doi.org/10.13001/ela.2025.7685" target="_blank" rel="noopener">[link]</a></li>
@@ -330,7 +332,6 @@ permalink: /cv/
       <li>An Asymptotic n/2 Lower Bound for the Maximum Possible Zero-Forcing–Maximum-Nullity Gap, with J. Geneson and J. Sinkovic.</li>
       <li>Broadcast Forcing, with A. Li, M. Ginn, H. Azuibuke, K. Karber, and L. Wong.</li>
       <li>An Exploration of Enhanced Zero Forcing, with M. Flagg, H. Schuerger, and B. Small.</li>
-      <li>Machine Learning Applied to the Minimum Rank Problem, with J. Hutchens and K. Urgo.</li>
       <li>Loop Maximum Nullity, with L. Hogben.</li>
     </ul>
 
@@ -485,8 +486,9 @@ permalink: /cv/
     </ul>
   </section>
 
-  <footer class="cv-footer">Mark C. Hunnell &middot; Curriculum Vitae &middot; Updated September 2026</footer>
+  <footer class="cv-footer">Mark C. Hunnell &middot; Curriculum Vitae &middot; Updated October 2026</footer>
 
 </div>
 </body>
 </html>
+{:/nomarkdown}
